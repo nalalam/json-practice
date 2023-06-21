@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "uuid":"asdf",
+        "src": "img/1.jpg",
+        "alt": "Slider 1 alter",
+        "title": "First slide label",
+        "caption": "Some representative placeholder content for the first slide."
+    },
+    {
+        "id":2,
+        "uuid":"asdfs",
+        "src": "img/2.jpg",
+        "alt": "Slider 2 alter",
+        "title": "Second slide label",
+        "caption": "Some representative placeholder content for the second slide."
+    },
+    {
+        "id":3,
+        "uuid":"dfgdfg",
+        "src": "img/3.jpg",
+        "alt": "Slider 3 alter",
+        "title": "Third slide label",
+        "caption": "Some representative placeholder content for the third slide."
+    },
+    {
+        "id":3,
+        "uuid":"dfgdfg",
+        "src": "img/3.jpg",
+        "alt": "Slider 3 alter",
+        "title": "Third slide label",
+        "caption": "Some representative placeholder content for the third slide."
+    }
+]
